@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"BSTHeapTree.bst_node"},{"p":"<Unnamed>","l":"BSTHeapTree"},{"p":"<Unnamed>","l":"Heap"},{"p":"<Unnamed>","l":"HeapDistinct"},{"p":"<Unnamed>","l":"Heap.HeapIterator"},{"p":"<Unnamed>","l":"HeapDistinct.HeapIterator"},{"p":"<Unnamed>","l":"Main"}];updateSearchResults();
