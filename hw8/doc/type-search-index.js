@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"DijkstrasAlgorithm"},{"p":"<Unnamed>","l":"Edge"},{"p":"<Unnamed>","l":"GraphClass"},{"p":"<Unnamed>","l":"ImportanceValue"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"OperatorClass"},{"p":"<Unnamed>","l":"ShortestPath"}]
